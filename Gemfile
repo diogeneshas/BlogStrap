@@ -61,3 +61,5 @@ gem 'simple_form'
 gem 'kaminari'
 gem 'devise'
 
+
+gem "pundit", "~> 2.1"
