@@ -63,3 +63,5 @@ gem 'devise'
 
 
 gem "pundit", "~> 2.1"
+
+gem "rolify"
